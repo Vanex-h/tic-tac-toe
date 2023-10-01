@@ -42,6 +42,7 @@ function handleCellClick(e) {
 	} else {
 		swapTurns()
 		setBoardHoverClass()
+        console.log("iyaaa");
 	}}
 
     function endGame(draw){
